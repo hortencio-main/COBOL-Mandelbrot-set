@@ -23,3 +23,8 @@ I!n######################??#######[~illI;
 ,::::;::;l!~|Xi!I;l;::,:::;::,,,,'''',,,, 
 :,,,,::;:;#<i~!I;::;;:,,,,:::,,,,''''''', 
 ```
+To compile and run on Linux with gnucobol:
+```
+cobc -x mandelbrot.cbl && ./mandelbrot
+```
+Not tested with any other compiler
